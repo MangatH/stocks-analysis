@@ -18,6 +18,7 @@ The procedure for refactoring the code included the creation of three output arr
 ### Refactored Code
 
 '''
+
 ' Initialize array of all tickers
     
     Dim tickers(12) As String
@@ -131,6 +132,7 @@ The procedure for refactoring the code included the creation of three output arr
 ### The original code
 
 '''
+
 '2) Initialize array of all tickers
      
        Dim tickers(12) As String
@@ -220,9 +222,10 @@ The idea of using arrays will help to reduce the running time of the code and ma
 <img widt<img width="1440" alt="2018 original" src="https://user-images.githubusercontent.com/111387025/188322942-bbf17e6d-50fe-4858-9420-7aa4c7ecdd61.png">
 
 ### Run time for the year 2018
-alt="2017 original" src="https://user-images.githubusercontent.com/111387025/188322914-7f0b995a-f3a4-44d7-b36e-37a9ce6a7c67.png">
 
-## Elapsed run time of Refactored Code
+<img width="1440" alt="2018 original" src="https://user-images.githubusercontent.com/111387025/188323893-ca9bb9b5-0ecf-469c-8787-c92c8d04e167.png">
+
+##Elapsed run time of Refactored Code
 
 ### Run time for the year 2017
 <img width="1440" alt="2017 Refactored" src="https://user-images.githubusercontent.com/111387025/188323072-33b956be-adf5-4f43-b041-9f097fe9d561.png">
@@ -232,7 +235,7 @@ alt="2017 original" src="https://user-images.githubusercontent.com/111387025/188
 
 ## Original Code Vs. Refactored Code
 
-By refactoring the code it can be clearly seen that it is much faster than the original one. The original code took approximately 0.4 seconds to run however, the refactored code just took 0.08 seconds to run, making it 5 times quicker than the former.
+By refactoring the code it can be clearly seen that it is much faster than the original one. The original code took approximately 0.4 seconds to run however, the refactored code just took 0.08 seconds to run, making it 5 times quicker than the former for the both years.
 
 ## Summary 
 
