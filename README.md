@@ -13,7 +13,7 @@ The purpose of the project is to edit or refactor the existing VBA code used for
 
 ### Refactoring the Code
 
-The procedure for refactoring the code included the creation of three output arrays, 'tickerVolumes', 'tickerStartingPrices' and 'tickerEndingPrices', in addition to the array 'tickers'. The variable 'tickerIndex will be used as a variable to iterate over all the rows.
+The procedure for refactoring the code included the creation of three output arrays, 'tickerVolumes', 'tickerStartingPrices' and 'tickerEndingPrices', in addition to the array 'tickers'. The variable 'tickerIndex' will be used as a variable to iterate over all the rows.
 
 ### Refactored Code
 
