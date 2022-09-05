@@ -19,7 +19,7 @@ The procedure for refactoring the code included the creation of three output arr
 
 '''
 
-' Initialize array of all tickers
+ 'Initialize array of all tickers
     
     Dim tickers(12) As String
     
@@ -133,7 +133,7 @@ The procedure for refactoring the code included the creation of three output arr
 
 '''
 
-'2) Initialize array of all tickers
+ 'Initialize array of all tickers
      
        Dim tickers(12) As String
 
@@ -219,7 +219,7 @@ The idea of using arrays will help to reduce the running time of the code and ma
 ## Elapsed run time of Original Code
 
 ### Run time for the year 2017
-<img widt<img width="1440" alt="2018 original" src="https://user-images.githubusercontent.com/111387025/188322942-bbf17e6d-50fe-4858-9420-7aa4c7ecdd61.png">
+<img width="1440" alt="2018 original" src="https://user-images.githubusercontent.com/111387025/188322942-bbf17e6d-50fe-4858-9420-7aa4c7ecdd61.png">
 
 ### Run time for the year 2018
 
