@@ -19,8 +19,7 @@ The procedure for refactoring the code included the creation of three output arr
 
 '''
 
- 'Initialize array of all tickers
-    
+ 
     Dim tickers(12) As String
     
     tickers(0) = "AY"
@@ -133,8 +132,7 @@ The procedure for refactoring the code included the creation of three output arr
 
 '''
 
- 'Initialize array of all tickers
-     
+
        Dim tickers(12) As String
 
        tickers(0) = "AY"
