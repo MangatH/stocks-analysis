@@ -3,11 +3,11 @@
 
 ## Background
 
-The main idea is to prepare a VBA code for client, Steve, in order to assist him in analysing returns from the various stocks. This analysis will help Steve guide his parents towards a good investment decision.
+The main idea is to prepare a VBA code for client, Steve, in order to assist him in analysing returns from the various stocks in the year 2017 and 2018. This analysis will help Steve guide his parents towards a good investment decision.
 
 ### Purpose
 
-The purpose of the project is to edit or refactor the existing VBA code used for the analysis of various stocks. The main reason behind this is to make the code more efficient by reducing the running time.
+The purpose of the project is to edit or refactor the existing VBA code used for the analysis of various stocks in the year 2017 and 2018. The main reason behind this is to make the code more efficient by reducing the running time.
 
 ## Results
 
